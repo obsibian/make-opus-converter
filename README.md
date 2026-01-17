@@ -76,7 +76,6 @@ sudo apt install -f
 ## 📜 Licencia
 
 Este proyecto está bajo la **Licencia Pública General de GNU v3.0**.
----
 
 ## 📧 Contacto
 
